@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "775522856178",
+    "firebase_url": "https://srm-he-qr-reader-system.firebaseio.com",
+    "project_id": "srm-he-qr-reader-system",
+    "storage_bucket": "srm-he-qr-reader-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775522856178:android:71f415d7253c950090746b",
+        "android_client_info": {
+          "package_name": "com.example.srmheqrreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775522856178-m43p1eovf7bo2v15mjlsurekt5pi7t8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8o7t78L9ENMMTYYWl0X-C9Awy_rB0Gzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775522856178-m43p1eovf7bo2v15mjlsurekt5pi7t8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
